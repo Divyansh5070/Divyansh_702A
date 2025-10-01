@@ -1,6 +1,6 @@
 # Divyansh_702A
 
-
+O1 LAB MST JAVA 
 import java.util.*;
 
 class Employee {
@@ -107,3 +107,7 @@ public class Main {
         sc.close();
     }
 }
+
+
+
+Q2 LAB MST JAVA 
